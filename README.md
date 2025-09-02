@@ -31,3 +31,9 @@ _Add 2–4 images here (home screen, valid suggestion, error message, reset)._
 1. Clone:
    ```bash
    git clone https://github.com/CourtneyBritney/imad5112wa1.git
+
+
+
+
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/7ae8ba81-90d0-4b2a-8117-b1d277fe1f26" />
